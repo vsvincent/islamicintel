@@ -32,15 +32,6 @@ export default function Home() {
     
     </Navbar>
     <FacebookPage/>
-    <Grid.Container gap={2} justify="start">
-      <Grid>
-        <Col>
-          <Text>
-            dwdaddw
-          </Text>
-        </Col>
-      </Grid>
-    </Grid.Container>
     <Textarea
       isReadOnly
       label="Description"
