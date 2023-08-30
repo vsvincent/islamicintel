@@ -31,7 +31,6 @@ export default function Home() {
       </NavbarContent>
     
     </Navbar>
-    <FacebookPage/>
     <Textarea
       isReadOnly
       label="Description"
